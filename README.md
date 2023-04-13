@@ -26,8 +26,8 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-q9asC8G92S](https://www.frontendmentor.io/solutions/flexbox-q9asC8G92S)
+- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-NFT-preview-card/](https://marianaceci.github.io/Frontend-Mentor-NFT-preview-card/)
 
 ## My process
 
